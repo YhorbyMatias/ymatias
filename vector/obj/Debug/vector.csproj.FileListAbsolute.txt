@@ -1,0 +1,9 @@
+C:\Users\Yhorby Matias\Desktop\vector\vector\bin\Debug\vector.exe.config
+C:\Users\Yhorby Matias\Desktop\vector\vector\bin\Debug\vector.exe
+C:\Users\Yhorby Matias\Desktop\vector\vector\bin\Debug\vector.pdb
+C:\Users\Yhorby Matias\Desktop\vector\vector\obj\Debug\vector.csprojResolveAssemblyReference.cache
+C:\Users\Yhorby Matias\Desktop\vector\vector\obj\Debug\vector.Form1.resources
+C:\Users\Yhorby Matias\Desktop\vector\vector\obj\Debug\vector.Properties.Resources.resources
+C:\Users\Yhorby Matias\Desktop\vector\vector\obj\Debug\vector.csproj.GenerateResource.Cache
+C:\Users\Yhorby Matias\Desktop\vector\vector\obj\Debug\vector.exe
+C:\Users\Yhorby Matias\Desktop\vector\vector\obj\Debug\vector.pdb
