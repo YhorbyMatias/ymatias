@@ -1,0 +1,6 @@
+C:\Users\Yhorby Matias\Desktop\vector\contains01\contains01\bin\Debug\contains01.exe.config
+C:\Users\Yhorby Matias\Desktop\vector\contains01\contains01\bin\Debug\contains01.exe
+C:\Users\Yhorby Matias\Desktop\vector\contains01\contains01\bin\Debug\contains01.pdb
+C:\Users\Yhorby Matias\Desktop\vector\contains01\contains01\obj\Debug\contains01.csprojResolveAssemblyReference.cache
+C:\Users\Yhorby Matias\Desktop\vector\contains01\contains01\obj\Debug\contains01.exe
+C:\Users\Yhorby Matias\Desktop\vector\contains01\contains01\obj\Debug\contains01.pdb

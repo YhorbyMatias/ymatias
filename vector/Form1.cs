@@ -46,7 +46,7 @@ namespace vector
         {
             // aqui llenamos las variable de la linea del vector
             int x1v = Width/ 2; // le decimos posicionate a la mitad de la anchura, para que quede dentro del plano
-            int x2v = 500;
+            int x2v = 0;
             int y1v = Height / 2; // le decimos posicionate a la mitad de la altura, para que quede dentro del plano
             int y2v = 0;
             Graphics grafico;
@@ -60,9 +60,9 @@ namespace vector
         private void btn_vectorabjo_Click(object sender, EventArgs e)
         {
             int x1v = Width / 2;
-            int x2v = 400;
+            int x2v = 20;
             int y1v = Height / 2;
-            int y2v = 0;
+            int y2v = 10;
             Graphics grafico;
             grafico = this.CreateGraphics();
             Pen lapiz;

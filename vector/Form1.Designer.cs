@@ -67,7 +67,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(605, 441);
+            this.ClientSize = new System.Drawing.Size(484, 447);
             this.Controls.Add(this.btn_vectorabjo);
             this.Controls.Add(this.btn_vector);
             this.Controls.Add(this.btn_plano);
